@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pickleball-analysis/static/css/main.f7c5c960.css",
-    "main.js": "/pickleball-analysis/static/js/main.edaca5e0.js",
-    "static/js/453.f57969b6.chunk.js": "/pickleball-analysis/static/js/453.f57969b6.chunk.js",
-    "index.html": "/pickleball-analysis/index.html",
-    "main.f7c5c960.css.map": "/pickleball-analysis/static/css/main.f7c5c960.css.map",
-    "main.edaca5e0.js.map": "/pickleball-analysis/static/js/main.edaca5e0.js.map",
-    "453.f57969b6.chunk.js.map": "/pickleball-analysis/static/js/453.f57969b6.chunk.js.map"
+    "main.css": "/volley-shot-analysis/static/css/main.f7c5c960.css",
+    "main.js": "/volley-shot-analysis/static/js/main.bf0c0c48.js",
+    "static/js/453.f57969b6.chunk.js": "/volley-shot-analysis/static/js/453.f57969b6.chunk.js",
+    "index.html": "/volley-shot-analysis/index.html",
+    "main.f7c5c960.css.map": "/volley-shot-analysis/static/css/main.f7c5c960.css.map",
+    "main.bf0c0c48.js.map": "/volley-shot-analysis/static/js/main.bf0c0c48.js.map",
+    "453.f57969b6.chunk.js.map": "/volley-shot-analysis/static/js/453.f57969b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7c5c960.css",
-    "static/js/main.edaca5e0.js"
+    "static/js/main.bf0c0c48.js"
   ]
 }
