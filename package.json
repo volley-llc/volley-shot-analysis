@@ -2,7 +2,7 @@
   "name": "volley-shot-analysis",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://volley-llc.github.io/pickleball-analysis",
+   "homepage": "https://volley-llc.github.io/volley-shot-analysis",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
